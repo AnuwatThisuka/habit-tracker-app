@@ -30,13 +30,13 @@
    ใช้คำสั่ง:
 
    ```bash
-   git clone https://github.com/anuwatthisuka/habit_app.git
+   git clone https://github.com/anuwatthisuka/Habit-Tracker-App.git
    ```
 
 3. **เข้าไปยังไดเรกทอรีของโปรเจกต์**  
 
    ```bash
-   cd habit_app
+   cd Habit-Tracker-App
    ```
 
 4. **ติดตั้ง dependencies**  

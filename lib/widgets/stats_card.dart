@@ -190,8 +190,8 @@ class TrendIndicator extends StatelessWidget {
   const TrendIndicator({
     required this.color,
     required this.isIncreasing,
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {

@@ -9,6 +9,9 @@
   <img src="screenshots/home_screen.png" width="270" alt="หน้าหลักของแอป">
   <img src="screenshots/add_habit.png" width="270" alt="หน้าเพิ่มกิจวัตร">
   <img src="screenshots/notification.png" width="270" alt="การแจ้งเตือน">
+   <img src="screenshots/home_screen_dark.png" width="270" alt="หน้าหลักของแอป">
+  <img src="screenshots/add_habit_dark.png" width="270" alt="หน้าเพิ่มกิจวัตร">
+  <img src="screenshots/notification_dark.png" width="270" alt="การแจ้งเตือน">
 </p>
 <!-- markdownlint-enable MD033 -->
 

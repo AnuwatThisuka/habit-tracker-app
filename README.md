@@ -62,7 +62,7 @@
 
 ## การสนับสนุน
 
-หากพบปัญหาหรือมีข้อเสนอแนะ สามารถเปิด Issue ได้ที่ [GitHub Repository](https://github.com/anuwatthisuka/habit_app/issues)
+หากพบปัญหาหรือมีข้อเสนอแนะ สามารถเปิด Issue ได้ที่ [GitHub Repository](https://github.com/anuwatthisuka/Habit-Tracker-App/issues)
 
 ## ใบอนุญาต
 

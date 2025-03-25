@@ -2,9 +2,13 @@
 
 แอปพลิเคชันติดตามกิจวัตร เป็นแอปที่ช่วยให้ผู้ใช้สามารถสร้าง ติดตาม และรักษากิจวัตรประจำวันได้อย่างมีประสิทธิภาพ พร้อมด้วยการแจ้งเตือนเพื่อช่วยให้ผู้ใช้สามารถรักษาความสม่ำเสมอในการทำกิจวัตรของตนเอง
 
-![หน้าหลักของแอป](screenshots/home_screen.png)
-![หน้าเพิ่มกิจวัตร](screenshots/add_habit.png)
-![การแจ้งเตือน](screenshots/notification.png)
+## ภาพหน้าจอแอปพลิเคชัน
+
+<p align="center">
+  <img src="screenshots/home_screen.png" width="270" alt="หน้าหลักของแอป">
+  <img src="screenshots/add_habit.png" width="270" alt="หน้าเพิ่มกิจวัตร">
+  <img src="screenshots/notification.png" width="270" alt="การแจ้งเตือน">
+</p>
 
 ## คุณสมบัติ
 

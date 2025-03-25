@@ -4,11 +4,13 @@
 
 ## ภาพหน้าจอแอปพลิเคชัน
 
+<!-- markdownlint-disable MD033 -->
 <p align="center">
   <img src="screenshots/home_screen.png" width="270" alt="หน้าหลักของแอป">
   <img src="screenshots/add_habit.png" width="270" alt="หน้าเพิ่มกิจวัตร">
   <img src="screenshots/notification.png" width="270" alt="การแจ้งเตือน">
 </p>
+<!-- markdownlint-enable MD033 -->
 
 ## คุณสมบัติ
 

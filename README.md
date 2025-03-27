@@ -33,13 +33,13 @@
    ใช้คำสั่ง:
 
    ```bash
-   git clone https://github.com/anuwatthisuka/Habit-Tracker-App.git
+   git clone https://github.com/AnuwatThisuka/habit-tracker-app
    ```
 
 3. **เข้าไปยังไดเรกทอรีของโปรเจกต์**  
 
    ```bash
-   cd Habit-Tracker-App
+   cd habit-tracker-app
    ```
 
 4. **ติดตั้ง dependencies**  
@@ -65,7 +65,7 @@
 
 ## การสนับสนุน
 
-หากพบปัญหาหรือมีข้อเสนอแนะ สามารถเปิด Issue ได้ที่ [GitHub Repository](https://github.com/anuwatthisuka/Habit-Tracker-App/issues)
+หากพบปัญหาหรือมีข้อเสนอแนะ สามารถเปิด Issue ได้ที่ [GitHub Repository](https://github.com/anuwatthisuka/habit-tracker-app/issues)
 
 ## ใบอนุญาต
 
